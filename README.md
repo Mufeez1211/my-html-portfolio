@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website – HTML5
 
 A beginner-friendly personal portfolio website built using **HTML5** and **Visual Studio Code**.
@@ -687,3 +688,6 @@ B.Tech – Computer Science (Artificial Intelligence and Data Science)
 ## 10. License
 
 This project is created for educational and learning purposes.
+=======
+# my-html-portfolio
+>>>>>>> 338a2272f2af823ebb6e52306decd7a88f611bf6
